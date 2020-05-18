@@ -3,9 +3,9 @@ This Pull Request template helps you complete an application to the **Class of 2
 
 ## Checklist ✅
 
-- [ ] I have read the instructions on the README file before submiting my application. 
-- [ ] I made my submission by creating a file on the `_data` folder and followed the naming convention mentioned in the instructions (`<username>.yml`).
-- [ ] I have used the YAML file template to add my information to the Year Book.
+- [ ] I have read the instructions on the README file before submitting my application. 
+- [ ] I made my submission by creating a file on the `_data` folder and followed the naming convention mentioned in the instructions (`<username>.md`).
+- [ ] I have used the Markdown file template to add my information to the Year Book.
 - [ ] I have completed the survey `https://airtable.com/shrmuHxu38ZariKJi`
 - [ ] My application belongs to:
   - [ ] **Tier 1** 📖: I added myself to the Year Book.

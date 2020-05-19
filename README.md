@@ -38,12 +38,14 @@ _data/MonaTheOctocat/
 ```
 
 ## 2. Add your profile picture to the folder
-Enter the folder you just created and add a profile picture of your choice. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Be aware, this picture will be displayed on the yearbook! Ex.
+Enter the folder you just created and add a profile picture of your choice. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
 
 
 ```
 _data/MonaTheOctocat/mona.png
 ```
+
+_Be aware, this picture will be displayed on the yearbook!_
 
 ## 3. Add your profile information
 Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
@@ -54,11 +56,11 @@ _data/MonaTheOctocat/MonaTheOctocat.md
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 ```
 ---
-name: Mona Lisa # No longer than 18 characters
-institution: Octocat University 🚩 # no longer than 58 characters
-profile_pic: mona.png # Relative path to the image you uploaded
-quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed" # no longer than 100 characters
-github_user: MonaTheOctocat
+name: FULLNAME-OR-NICKNAME # No longer than 18 characters
+institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
+profile_pic: mona.png # Relative path to the image you uploaded (ex. mona.png)
+quote: YOUR-SENIOR-QUOTE # no longer than 100 characters
+github_user: YOUR-GITHUB-USERNAME
 ---
 ```
 

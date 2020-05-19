@@ -1,7 +1,7 @@
 
 ![Graduation Mona](assets/card-min.png)
 
-This repository contains the yearbook of the **$ git remote < graduation >** event. By issuing a Pull Request to this repository, you can request to be added to the Class of 2020. 
+This repository contains the yearbook of the **$ git remote < graduation >** event. By issuing a pull request to this repository, you can request to be added to the Class of 2020. 
 
 Join the event and receive GitHub swag at the comfort of your home!
 

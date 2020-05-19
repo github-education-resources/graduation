@@ -50,7 +50,7 @@ Use the next template to add your information to the yearbook:
 ```
 ---
 name: Mona The Octocat # No longer than 18 characters
-institution: Octocat Univerity 🚩 # no longer than 58 characters
+institution: Octocat University 🚩 # no longer than 58 characters
 profile_pic: mona.png # Relative path to the image you uploaded
 quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed" # no longer than 64 characters
 github_user: MonaTheOctocat
@@ -63,7 +63,7 @@ _Do not insert special characters in the template above._
 
 Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit your Pull Request. 
 
-Go through the checklist on the Pull Request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the Pull Request comment section. 
+Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the pull request comment section. 
 
 # Graduation Day 🎓
 Don't forget to watch the livestream! 

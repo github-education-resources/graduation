@@ -37,7 +37,8 @@ _data/MonaTheOctocat/
 ```
 
 ## 2. Add your profile picture to the folder
-Enter the folder you just created and add a profile picture of your choice. Accepted files are **png** and **jpg**. Be aware, this picture will be displayed on the yearbook! Ex.
+Enter the folder you just created and add a profile picture of your choice. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Be aware, this picture will be displayed on the yearbook! Ex.
+
 
 ```
 _data/MonaTheOctocat/mona.png

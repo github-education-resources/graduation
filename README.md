@@ -23,8 +23,6 @@ Tiers reward the effort graduates make for this celebration. By adding yourself 
 - **Tier 2** 🛍: Follow the steps on Tier 1 and write a post on DEV about a project you've built while being a student. You can use this [template](https://dev.to/new/octograd2020) to get started!
 - **Tier 3** 🏅: The best project posts on DEV will be highlighted live on stream during the graduation.
 
-_Notice: We have a limited number of swag packages._
-
 # How to join the Class of 2020
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.

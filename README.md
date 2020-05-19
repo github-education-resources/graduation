@@ -51,9 +51,9 @@ Use the next template to add your information to the yearbook:
 ---
 name: Mona The Octocat # No longer than 18 characters
 institution: Octocat Univerity 🚩 # no longer than 58 characters
-profile-pic: mona.png # Relative path to the image you uploaded
+profile_pic: mona.png # Relative path to the image you uploaded
 quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed" # no longer than 64 characters
-github-user: MonaTheOctocat
+github_user: MonaTheOctocat
 ---
 ```
 

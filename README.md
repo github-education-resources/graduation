@@ -15,7 +15,7 @@ Consider that all the information that you add to this repository will be public
 
 # Tiers 🏆
 
-Tiers reward the effort graduates make for this celebration. By adding yourself to the yearbook and writing a post on DEV, you will get access to extra benefits. Make sure you submit your pull request before midnight Monday, May 25th PDT.
+Tiers reward the effort graduates make for this celebration. Add yourself to the yearbook and write a post on DEV, and we'll send you 📦a surprise from GitHub. Make sure you submit your pull request before midnight Monday, May 25th PDT.
 
 
 - **Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping form. 

@@ -47,6 +47,6 @@ Go through the checklist on the Pull Request template to guarantee your submissi
 Don't forget to watch the livestream! 
 
 - 📆 Monday, June 15th 2020
-- ⏰ 9:00 AM PDT | 
+- ⏰ 9:00 PDT | 21:30 IST
 - 📍 GitHub Education Twitch Channel
 - 📎 Add the [event](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200615T160000Z%2F20200615T183000Z&text=%24%20git%20remote%20%3Cgraduation%3E%20%F0%9F%8E%93&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=) to your calendar.

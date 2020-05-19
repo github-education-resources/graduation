@@ -1,7 +1,7 @@
 
 ![Graduation Mona](assets/card-min.png)
 
-This repository contains the yearbook of the **$ git remote < graduation >** event. By issuing a pull request to this repository, you can request to be added to the Class of 2020. 
+This repository contains the [yearbook](https://education.github.com/graduation/yearbook) of the **$ git remote < graduation >** event. By issuing a pull request to this repository, you can request to be added to the Class of 2020. 
 
 Join the event and receive GitHub swag in the comfort of your home!
 
@@ -10,12 +10,12 @@ Join the event and receive GitHub swag in the comfort of your home!
 Consider that all the information that you add to this repository will be publicly available.
 
 - If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
-- If you don't want to add a profile picture to the yearbook, you can use your university crest, or [build an octocat](https://myoctocat.com/build-your-octocat/) and use it as an avatar instead. 
+- If you don't want to add a profile picture to the yearbook, you can use your university crest, or [build an octocat](https://myoctocat.com/build-your-octocat/) and use it as your avatar instead. 
 
 
 # Tiers 🏆
 
-Tiers reward the effort graduates make for this celebration. By adding yourself to the Yearbook and writing a post on DEV, you will get access to extra benefits. Make sure you submit your pull request before midnight Friday, May 22nd PDT.
+Tiers reward the effort graduates make for this celebration. By adding yourself to the yearbook and writing a post on DEV, you will get access to extra benefits. Make sure you submit your pull request before midnight Monday, May 25th PDT.
 
 
 - **Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping form. 
@@ -38,12 +38,14 @@ _data/MonaTheOctocat/
 ```
 
 ## 2. Add your profile picture to the folder
-Enter the folder you just created and add a profile picture of your choice. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Be aware, this picture will be displayed on the yearbook! Ex.
+Enter the folder you just created and add a profile picture of your choice. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
 
 
 ```
 _data/MonaTheOctocat/mona.png
 ```
+
+_Be aware, this picture will be displayed on the yearbook!_
 
 ## 3. Add your profile information
 Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
@@ -51,18 +53,18 @@ Create a markdown file in your folder following the convention `<YOUR-USERNAME>.
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md
 ```
-Use the next template to add your information to the yearbook:
+Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 ```
 ---
-name: Mona The Octocat # No longer than 18 characters
-institution: Octocat University 🚩 # no longer than 58 characters
-profile_pic: mona.png # Relative path to the image you uploaded
-quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed" # no longer than 64 characters
-github_user: MonaTheOctocat
+name: FULLNAME-OR-NICKNAME # No longer than 18 characters
+institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
+profile_pic: mona.png # Relative path to the image you uploaded (ex. mona.png)
+quote: YOUR-SENIOR-QUOTE # no longer than 100 characters
+github_user: YOUR-GITHUB-USERNAME
 ---
 ```
 
-_Do not insert special characters in the template above._
+_Do not use special characters in the template above._
 
 ## 4. Form & Pull Request
 

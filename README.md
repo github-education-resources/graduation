@@ -3,7 +3,8 @@
 
 This repository contains the yearbook of the **$ git remote < graduation >** event. By issuing a pull request to this repository, you can request to be added to the Class of 2020. 
 
-Join the event and receive GitHub swag at the comfort of your home!
+Join the event and receive GitHub swag in the comfort of your home!
+
 
 ## Privacy Notice 👀
 Consider that all the information that you add to this repository will be publicly available.
@@ -13,9 +14,11 @@ Consider that all the information that you add to this repository will be public
 
 # Tiers 🏆
 
-The Tiers reward the effort graduates make for this celebration. By adding yourself to the Year Book and writing a post on DEV, you will get access to extra benefits. Make sure you submit your Pull Request before midnight Friday, May 22nd PDT.
+Tiers reward the effort graduates make for this celebration. By adding yourself to the Yearbook and writing a post on DEV, you will get access to extra benefits. Make sure you submit your pull request before midnight Friday, May 22nd PDT.
 
-- **Tier 1** ✉: Add yourself to the Year Book by submitting a Pull Request to this repository and filling the swag shipping form. 
+
+- **Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping form. 
+
 - **Tier 2** 🛍: Follow the steps on Tier 1 and write a post on DEV about a project you've built while being a student. You can use this [template](https://dev.to/new/octograd2020) to get started!
 - **Tier 3** 🏅: The best project posts on DEV will be highlighted live on stream during the graduation.
 
@@ -26,7 +29,8 @@ _Notice: We have a limited number of swag packages._
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ## 1. Create the folder _data/YOUR-USERNAME/ 
-Fork this repository and create a new folder inside the `_data` folder and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex:
+Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
+
 
 ```
 _data/MonaTheOctocat/

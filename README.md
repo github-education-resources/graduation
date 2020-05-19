@@ -1,7 +1,7 @@
 
 ![Graduation Mona](assets/card-min.png)
 
-This repository contains the Year Book of the **$ git remote < graduation >** event. By issuing a Pull Request to this repository, you can request to be added to the Class of 2020. 
+This repository contains the yearbook of the **$ git remote < graduation >** event. By issuing a Pull Request to this repository, you can request to be added to the Class of 2020. 
 
 Join the event and receive GitHub swag at the comfort of your home!
 
@@ -24,14 +24,34 @@ _Notice: We have a limited number of swag packages._
 # How to join the Class of 2020
 _If it is your first time contributing to a project, or using GitHub, you can follow the guide on the [CONTRIBUTING](CONTRIBUTING.md) file._
 
-## Create _data/YOUR-USERNAME.md
-Fork this repository and create a new file inside the `_data` folder following this convention `<YOUR-USERNAME>.md`, replace `<YOUR-USERNAME>` with your GitHub username. Use the next template to add your graduation information:
+Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
+## 1. Create the folder _data/YOUR-USERNAME/ 
+Fork this repository and create a new folder inside the `_data` folder and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex:
+
+```
+_data/MonaTheOctocat/
+```
+
+## 2. Add your profile picture to the folder
+Enter the folder you just created and add a profile picture of your choice. Accepted files are **png** and **jpg**. Be aware, this picture will be displayed on the yearbook! Ex.
+
+```
+_data/MonaTheOctocat/mona.png
+```
+
+## 3. Add your profile information
+Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
+
+```
+_data/MonaTheOctocat/MonaTheOctocat.md
+```
+Use the next template to add your information to the yearbook:
 ```
 ---
 name: Mona The Octocat # No longer than 18 characters
 institution: Octocat Univerity 🚩 # no longer than 58 characters
-pic-url: https://octodex.github.com/images/welcometocat.png
+profile-pic: mona.png # Relative path to the image you uploaded
 quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed" # no longer than 64 characters
 github-user: MonaTheOctocat
 ---
@@ -39,7 +59,9 @@ github-user: MonaTheOctocat
 
 _Do not insert special characters in the template above._
 
-Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit a Pull Request. 
+## 4. Form & Pull Request
+
+Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit your Pull Request. 
 
 Go through the checklist on the Pull Request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the Pull Request comment section. 
 

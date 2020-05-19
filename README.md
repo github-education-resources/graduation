@@ -10,7 +10,8 @@ Join the event and receive GitHub swag in the comfort of your home!
 Consider that all the information that you add to this repository will be publicly available.
 
 - If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
-- If you don't want to add a profile picture to the yearbook, you can use an avatar or university crest instead. 
+- If you don't want to add a profile picture to the yearbook, you can use your university crest, or [build an octocat](https://myoctocat.com/build-your-octocat/) and use it as an avatar instead. 
+
 
 # Tiers 🏆
 

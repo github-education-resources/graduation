@@ -21,7 +21,7 @@ The Tiers reward the effort graduates make for this celebration. By adding yours
 
 _Notice: We have a limited number of swag packages._
 
-# How to Join the Class of 2020
+# How to join the Class of 2020
 _If it is your first time contributing to a project, or using GitHub, you can follow the guide on the [CONTRIBUTING](CONTRIBUTING.md) file._
 
 ## Create _data/YOUR-USERNAME.md

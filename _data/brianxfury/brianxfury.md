@@ -2,6 +2,6 @@
 name: Bryan 
 institution: Central Colleges of the Philippines
 profile_pic: bryan.jpg
-quote: Always "Strive to be better than your best self. Strive for excellence!"
+quote: "Always strive to be better than your best self. Ignite your passion for excellence!"
 github_user: brianxfury
 ---

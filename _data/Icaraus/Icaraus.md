@@ -1,7 +1,7 @@
 ---
-name: CHAITANYA KASHYAP
-institution: PANIPAT INSTITUTE OF ENGINEERING AND TECHNOLOGY
+name: Chaitanya Kashyap
+institution: Panipat Institute of Engineering and Technology
 profile_pic: Icaraus.png  
-quote: ALL I THINK OF LIVING THE FANTASY OF THIS UNIVERSE.
+quote: All I think of is to live the fantasy of this universe.
 github_user: Icaraus
 ---

@@ -1,5 +1,5 @@
 ---
-name: Rohit Babu Gaddeti
+name: Rohit Babu
 institution: Gayatri Vidya Parishad College of Engineering
 profile_pic: rohitbabugaddeti.png
 quote: Success is something you achieve with passion.

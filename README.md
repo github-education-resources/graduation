@@ -18,7 +18,7 @@ Consider that all the information that you add to this repository will be public
 Tiers reward the effort graduates make for this celebration. By adding yourself to the yearbook and writing a post on DEV, you will get access to extra benefits. Make sure you submit your pull request before midnight Monday, May 25th PDT.
 
 
-- **Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping form. 
+- **Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping Form.
 
 - **Tier 2** 🛍: Follow the steps on Tier 1 and write a post on DEV about a project you've built while being a student. You can use this [template](https://dev.to/new/octograd2020) to get started!
 - **Tier 3** 🏅: The best project posts on DEV will be highlighted live on stream during the graduation.

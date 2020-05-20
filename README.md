@@ -23,6 +23,14 @@ Tiers reward the effort graduates make for this celebration. By adding yourself 
 - **Tier 2** 🛍: Follow the steps on Tier 1 and write a post on DEV about a project you've built while being a student. You can use this [template](https://dev.to/new/octograd2020) to get started!
 - **Tier 3** 🏅: The best project posts on DEV will be highlighted live on stream during the graduation.
 
+# Who can apply 📝
+Any higher education student that has or will graduate in 2020 can apply to the yearbook.
+
+- High School Graduates
+- College Graduates
+- Master's Graduates
+- Ph.D. Graduates
+
 # How to join the Class of 2020
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
@@ -56,7 +64,7 @@ Copy the next template into your file, delete the boilerplate data and fill the 
 ---
 name: FULLNAME-OR-NICKNAME # No longer than 18 characters
 institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
-profile_pic: mona.png # Relative path to the image you uploaded (ex. mona.png)
+profile_pic: mona.png # Name and extension of your profile picture(ex. mona.png)
 quote: YOUR-SENIOR-QUOTE # no longer than 100 characters
 github_user: YOUR-GITHUB-USERNAME
 ---

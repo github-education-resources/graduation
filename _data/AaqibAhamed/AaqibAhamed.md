@@ -2,6 +2,6 @@
 name: Wiki
 institution: 🚩 The Open University of Sri Lanka
 profile_pic: aaqib.jpg
-quote: Do Work Smart! Love what you Do ! Do what you Love !
+quote: Love what you Do ! Do what you Love ! Do Work Smart!
 github_user: AaqibAhamed
 ---

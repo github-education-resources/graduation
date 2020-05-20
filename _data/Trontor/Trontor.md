@@ -1,5 +1,5 @@
 ---
-name: Rohyl Joshi
+name: Yoshi
 institution: The University of Melbourne
 profile_pic: Trontor.png
 quote: "Bye bye Melbourne"

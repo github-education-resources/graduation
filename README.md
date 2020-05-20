@@ -26,6 +26,7 @@ Tiers reward the effort graduates make for this celebration. By adding yourself 
 # Who can apply 📝
 Any higher education student that has or will graduate in 2020 can apply to the yearbook.
 
+- Non-Traditional Education (Bootcamps, Codecamps, Hacker Schools, etc)
 - High School Graduates
 - College Graduates
 - Master's Graduates

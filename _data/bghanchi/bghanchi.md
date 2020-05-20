@@ -1,6 +1,6 @@
-
-name: Bharat Kumar 
-institution: Geetanjali Institute of Technical Studies 
-profile_pic: bghanchi.jpg 
-quote: YOUR-SENIOR-QUOTE 
-github_user: bghanchi
+name	institution	profile_pic	quote	github_user
+Bharat Kumar
+Geetanjali Institute of Technical Studies 
+bghanchi.jpg
+Fear regret more than failure
+bghanchi

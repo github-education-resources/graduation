@@ -2,7 +2,7 @@
 name: Justin Huey
 institution: Balboa High School
 profile_pic: JH.JPG
-quote: If you don’t have weights at home, try using canned food or the psychological burden of simply existing in this world.
+quote: We made it! YOLO
 github_user: JustinHuey1
 
 ---

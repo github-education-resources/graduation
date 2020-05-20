@@ -1,0 +1,7 @@
+---
+name: Nawaz Mujawar
+institution: TKIET, Warananagar
+profile_pic: nawaz.jpg
+quote: Doing little things well is the way towards doing big things better.
+github_user: nawazmujawar
+---

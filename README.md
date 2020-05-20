@@ -36,12 +36,12 @@ Any higher education student that has or will graduate in 2020 can apply to the 
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
-## 1. Create the folder _data/YOUR-USERNAME/ 
-Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
+## 1. Create the folder _data/hueyning/ 
+Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/hueyning/`. Ex.
 
 
 ```
-_data/MonaTheOctocat/
+_data/hueyning/
 ```
 
 ## 2. Add your profile picture to the folder
@@ -49,16 +49,16 @@ Enter the folder you just created and add a profile picture of your choice. Acce
 
 
 ```
-_data/MonaTheOctocat/mona.png
+_data/hueyning/HueyNing.png
 ```
 
 _Be aware, this picture will be displayed on the yearbook!_
 
 ## 3. Add your profile information
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
+Create a markdown file in your folder following the convention `HueyNing.md`. Ex.
 
 ```
-_data/MonaTheOctocat/MonaTheOctocat.md
+_data/hueyning/HueyNing.md
 ```
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 ```

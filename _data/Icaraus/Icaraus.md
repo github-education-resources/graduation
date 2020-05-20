@@ -1,0 +1,7 @@
+---
+name: CHAITANYA KASHYAP
+institution: PANIPAT INSTITUTE OF ENGINEERING AND TECHNOLOGY
+profile_pic: Icaraus.png  
+quote: ALL I THINK OF LIVING THE FANTASY OF THIS UNIVERSE.
+github_user: Icaraus
+---

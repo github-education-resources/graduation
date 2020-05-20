@@ -1,7 +1,7 @@
 
 ![Graduation Mona](assets/card-min.png)
 
-This repository contains the [yearbook](https://education.github.com/graduation/yearbook) of the **$ git remote < graduation >** event. By issuing a pull request to this repository, you can request to be added to the Class of 2020. 
+This repository contains the [yearbook](https://education.github.com/graduation/yearbook) of the **$ git remote < graduation >** event. By issuing a pull request to this repository, you can request to be added to the Class of 2020.
 
 Join the event and receive GitHub swag in the comfort of your home!
 
@@ -10,7 +10,7 @@ Join the event and receive GitHub swag in the comfort of your home!
 Consider that all the information that you add to this repository will be publicly available.
 
 - If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
-- If you don't want to add a profile picture to the yearbook, you can use your university crest, or [build an octocat](https://myoctocat.com/build-your-octocat/) and use it as your avatar instead. 
+- If you don't want to add a profile picture to the yearbook, you can use your university crest, or [build an octocat](https://myoctocat.com/build-your-octocat/) and use it as your avatar instead.
 
 
 # Tiers 🏆
@@ -18,7 +18,7 @@ Consider that all the information that you add to this repository will be public
 Tiers reward the effort graduates make for this celebration. By adding yourself to the yearbook and writing a post on DEV, you will get access to extra benefits. Make sure you submit your pull request before midnight Monday, May 25th PDT.
 
 
-- **Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping form. 
+- **Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping form.
 
 - **Tier 2** 🛍: Follow the steps on Tier 1 and write a post on DEV about a project you've built while being a student. You can use this [template](https://dev.to/new/octograd2020) to get started!
 - **Tier 3** 🏅: The best project posts on DEV will be highlighted live on stream during the graduation.
@@ -34,9 +34,9 @@ Any higher education student that has or will graduate in 2020 can apply to the 
 
 # How to join the Class of 2020
 
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+Replace `zarifaziz` with your GitHub username in this guide.
 
-## 1. Create the folder _data/YOUR-USERNAME/ 
+## 1. Create the folder _data/YOUR-USERNAME/
 Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
 
 
@@ -75,12 +75,12 @@ _Do not use special characters in the template above._
 
 ## 4. Form & Pull Request
 
-Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit your Pull Request. 
+Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit your Pull Request.
 
-Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the pull request comment section. 
+Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the pull request comment section.
 
 # Graduation Day 🎓
-Don't forget to watch the livestream! 
+Don't forget to watch the livestream!
 
 - 📆 Monday, June 15th 2020
 - ⏰ 9:00 PDT | 21:30 IST

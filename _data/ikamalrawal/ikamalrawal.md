@@ -2,6 +2,6 @@
 name:Kamal
 institution: United College of Engineering & Research
 profile_pic: kamal.jpg
-quote: YOUR-SENIOR-QUOTE # no longer than 100 characters
+quote: Start each day believing in your dreams. Know without a doubt that you were made for great things.
 github_user: ikamalrawal
 ---

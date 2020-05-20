@@ -4,4 +4,4 @@
 - quote:  Make it or break it , curse it or rejoice it.The life of a devloper is 
 an never ending learning path. 
 - github_user: NishantGautam023
-
+- DEV.to: https://dev.to/nishantgautam023/retrogame-breakout-2hbg

@@ -63,7 +63,7 @@ _data/MonaTheOctocat/MonaTheOctocat.md
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 ```
 ---
-name: FULLNAME-OR-NICKNAME # No longer than 18 characters
+name: FULLNAME-OR-NICKNAME # No longer than 28 characters
 institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
 profile_pic: mona.png # Name and extension of your profile picture(ex. mona.png)
 quote: YOUR-SENIOR-QUOTE # no longer than 100 characters

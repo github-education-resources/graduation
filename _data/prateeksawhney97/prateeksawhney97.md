@@ -1,7 +1,7 @@
 ---
-name: PRATEEK SAWHNEY 
-institution: MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY
+name: Prateek Sawhney
+institution: Maharaja Agrasen Institute of Technology
 profile_pic: PrateekSawhney.jpg
-quote: GOOGLE AI EXPLORE ML FACILITATOR 
+quote: Google AI Explore Machine Learning Facilitator 
 github_user: prateeksawhney97
 ---

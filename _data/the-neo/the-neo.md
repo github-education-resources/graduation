@@ -1,7 +1,7 @@
 ---
-title: Untitled
-created: '2020-05-20T21:53:35.994Z'
-modified: '2020-05-20T21:59:33.140Z'
+name: Kshitij Nayar # No longer than 18 characters
+institution: IIT Guwahati 🚩 # no longer than 58 characters
+profile_pic: neo.png # Name and extension of your profile picture(ex. mona.png)
+quote: Find love for who and what you are now, but never accept it is all you will ever be. # no longer than 100 characters
+github_user: the-neo
 ---
-
-

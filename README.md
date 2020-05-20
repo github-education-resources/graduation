@@ -34,7 +34,7 @@ Any higher education student that has or will graduate in 2020 can apply to the 
 
 # How to join the Class of 2020
 
-Replace `JACOBIN-SCTCS` with your GitHub username in this guide.
+Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ## 1. Create the folder _data/YOUR-USERNAME/ 
 Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.

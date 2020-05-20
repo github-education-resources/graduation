@@ -1,0 +1,7 @@
+---
+name: Dhruv garg # No longer than 18 characters
+institution: Modern Public School  # no longer than 58 characters
+profile_pic: Dhruv.png # Relative path to the image you uploaded
+quote: "Apna Time Aayega!" # No longer than 100 characters
+github_user: Dhruv garg
+---

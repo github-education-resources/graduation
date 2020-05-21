@@ -1,0 +1,6 @@
+---
+name: Zatin
+institution: Indian Institute of Technology Guwahati
+profile_pic: Zatin.JPG
+github_user: ZatinMe
+---

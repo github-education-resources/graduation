@@ -1,5 +1,5 @@
 ---
-name: Emmanuel Joseph(JET)
+name: Emmanuel Joseph JET
 institution: Ekiti State University
 profile_pic: emmanueljet.png
 quote: It's not how far but how well

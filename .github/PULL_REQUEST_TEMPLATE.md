@@ -4,12 +4,12 @@ This pull request template helps you complete an application to the **Class of 2
 
 ## Checklist ✅
 
-Please fill the checklist in correct way.
+<!--Please fill the checklist in correct way.
 - Wrong way []x [ x ] [x ] [ x] 
 - The only correct way is to to a small x between [x] like this.(No spaces between them.)
 Also
 - If you belong to 3/2 tier try checking the previous tier.
-- The PR should compulsory contain only 2 files. 1 is your display picture and 2 is your .md file.
+- The PR should compulsory contain only 2 files. 1 is your display picture and 2 is your .md file.-->
 
 - [ ] I have read the instructions on the README file before submitting my application. 
 - [ ] I made my submission by creating a folder on the `_data` folder and followed the naming convention mentioned in the instructions (`<username>`), added my profile picture and markdown file.

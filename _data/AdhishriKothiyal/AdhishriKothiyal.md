@@ -1,4 +1,4 @@
- ---
+---
 name: Adhishri Kotthiyal
 institution: University of Maryland 🚩
 profile_pic: GHC.png

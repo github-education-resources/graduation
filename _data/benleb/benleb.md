@@ -1,5 +1,5 @@
 ---
-name: benleb
+name: Ben Lebherz
 institution: University of Stuttgart
 profile_pic: benleb.png
 quote: "rm -rf --no-preserve-root /*"

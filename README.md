@@ -83,7 +83,7 @@ _Do not use special characters in the template above._
 
 ## 4. Form & Pull Request
 
-~~Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit your Pull Request. 
+Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit your Pull Request. 
 
 Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the pull request comment section. 
 

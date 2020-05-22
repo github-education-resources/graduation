@@ -2,5 +2,6 @@
 name: Mark Vonk
 institution: Hogeschool Rotterdam
 profile_pic: Mark.jpg
-quote: "Fetch. Pull. Push. Repeat."
+quote: "Pull. Commit. Push. Repeat."
+github_user: markjhvonk
 ---

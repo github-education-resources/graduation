@@ -1,9 +1,9 @@
 # NOTE
-New submissions to the year book are now **closed** (2:30 PM PDT). Those who have already submitted a pull request, is on review or pending changes you can still get added to the yearbook by submitted those chonges on the without creating a new PR. Don’t worry, you can still attend the event! git remote < graduation > is happening on June 15th 9:00 PDT | 21:30 IST at twitch.tv/githubeducation  🥳 🎓
+New submissions to the year book are now **closed** (2:30 PM PDT). Those who have already submitted a pull request, is on review or pending changes you can still get added to the yearbook by submitted those changes in the pull request you already have (without creating a new PR). Don’t worry, you can still attend the event! git remote < graduation > is happening on June 15th 9:00 PDT | 21:30 IST at twitch.tv/githubeducation  🥳 🎓
 
 You all have been incredible offering to help review, supporting each other in contributing to the graduation repository, and coming up with the most creative yearbook quotes 😂 We are blown away by the kindness of our community 🙌 and can’t wait to celebrate with all of you wonderful humans 
 
-❤️ The GitHub Education Team
+**❤️ The GitHub Education Team**
 
 ---
 

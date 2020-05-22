@@ -1,3 +1,11 @@
+# NOTE
+New submissions to the year book are now **closed** (2:30 PM PDT). Those who have already submitted a pull request, is on review or pending changes you can still get added to the yearbook by submitted those chonges on the without creating a new PR. Don’t worry, you can still attend the event! git remote < graduation > is happening on June 15th 9:00 PDT | 21:30 IST at twitch.tv/githubeducation  🥳 🎓
+
+You all have been incredible offering to help review, supporting each other in contributing to the graduation repository, and coming up with the most creative yearbook quotes 😂 We are blown away by the kindness of our community 🙌 and can’t wait to celebrate with all of you wonderful humans 
+
+❤️ The GitHub Education Team
+
+---
 
 ![Graduation Mona](assets/card-min.png)
 
@@ -32,7 +40,7 @@ Any higher education student that has or will graduate in 2020 can apply to the 
 - Master's Graduates
 - Ph.D. Graduates
 
-# How to join the Class of 2020
+# How to join the Class of 2020 (CLOSED 🔴)
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
@@ -75,7 +83,7 @@ _Do not use special characters in the template above._
 
 ## 4. Form & Pull Request
 
-Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit your Pull Request. 
+~~Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit your Pull Request. 
 
 Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the pull request comment section. 
 

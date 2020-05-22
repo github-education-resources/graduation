@@ -34,7 +34,7 @@ Any higher education student that has or will graduate in 2020 can apply to the 
 
 # How to join the Class of 2020
 
-Replace `<noticemechris>` with your GitHub username in this guide.
+Replace `noticemechris` with your GitHub username in this guide.
 
 ## 1. Create the folder _data/noticemechris/ 
 Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/noticemechris/`. Ex.
@@ -55,7 +55,7 @@ _data/MonaTheOctocat/mona.png
 _Be aware, this picture will be displayed on the yearbook!_
 
 ## 3. Add your profile information
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
+Create a markdown file in your folder following the convention `noticemechris.md`. Ex.
 
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md

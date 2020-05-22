@@ -2,6 +2,6 @@
 name: Neha Gupta
 institution: GL Bajaj Institute Of Technology and Management
 profile_pic: nayyyhaa.jpg
-quote: Things aren't always ##000000 and ##ffffff
+quote: There are 10 types of people in the world: those who understand binary, and those who don't.
 github_user: nayyyhaa
 ---

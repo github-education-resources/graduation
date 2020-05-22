@@ -2,6 +2,6 @@
 name: Thant Htoo Zaw
 institution: UC San Diego
 profile_pic: thantsq.jpg
-quote: "Here's to always getting back up!"
+quote: "But it was working locally!"
 github_user: htoo97
 ---

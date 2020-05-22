@@ -2,6 +2,6 @@
 name: Roel Voordendag
 institution: Hogeschool Rotterdam, Rotterdam
 profile_pic: roel.jpg
-quote: I Studied four years and currently living in a pandamic just so I could be in githubs yearbook
+quote: Studied four years and lived in a pandamic just so i could be in githubs yearbook
 github_user: RoelVoordendag
 ---

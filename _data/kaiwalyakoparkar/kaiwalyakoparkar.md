@@ -1,7 +1,7 @@
 ---
 name: Kaiwalya Sudhir Koparkar 
-institution: M. S. Gosavi Polytechnic Institue🚩 
+institution: M. S. Gosavi Polytechnic Institue. 
 profile_pic: kaiwalya.jpg 
-quote: One Who rules the computer rules the world.
+quote: This degree will surely help me wih my skills and will change my perspective to see the technology.
 github_user: kaiwalyakoparkar
 ---

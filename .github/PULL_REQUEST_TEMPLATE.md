@@ -4,12 +4,8 @@ This pull request template helps you complete an application to the **Class of 2
 
 ## Checklist ✅
 
-<!--Please fill the checklist in correct way.
-- Wrong way []x [ x ] [x ] [ x] 
-- The only correct way is to to a small x between [x] like this.(No spaces between them.)
-Also
-- If you belong to 3/2 tier try checking the previous tier.
-- The PR should compulsory contain only 2 files. 1 is your display picture and 2 is your .md file.-->
+
+[Reminder]: # (Fill the checklist below by adding an `x ` between the square brackets like this `[x]`. No spaces between them. You can also tick the boxes after you have open the pull request.)
 
 - [ ] I have read the instructions on the README file before submitting my application. 
 - [ ] I made my submission by creating a folder on the `_data` folder and followed the naming convention mentioned in the instructions (`<username>`), added my profile picture and markdown file.
@@ -23,4 +19,3 @@ Also
 - [ ] I understand I should not tag or add a reviewer to this Pull Request.
 - [ ] I understand the photo added to the template will be used in the ceremony "Graduate Walk". 
 - [ ] I have [added the event](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200615T160000Z%2F20200615T183000Z&text=%24%20git%20remote%20%3Cgraduation%3E%20%F0%9F%8E%93&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=) to my Calendar.
-

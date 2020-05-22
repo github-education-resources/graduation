@@ -1,5 +1,5 @@
 ---
-name: Harry Singh
+name: Harpreet Goraya
 institution: York University
 profile_pic: harry.jpg
 quote: Celebrate your failures bigger than your birthdays

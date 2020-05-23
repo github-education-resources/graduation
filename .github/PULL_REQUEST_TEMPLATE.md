@@ -9,7 +9,7 @@ This pull request template helps you complete an application to the **Class of 2
 - [ ] I have used the Markdown file template to add my information to the Year Book.
 - [ ] I have completed the form: `https://airtable.com/shrmuHxu38ZariKJi`
 - [ ] My application belongs to:
-  - [x] **Tier 1** 📖: I added myself to the Year Book.
+  - [ ] **Tier 1** 📖: I added myself to the Year Book.
   - [ ] **Tier 2** ✏️: I wrote a post on DEV about a project I built.
   - [ ] **Tier 3** ✨: I want my project to be highlighted on stream.
 - [ ] I understand that a reviewer will merge my pull request after examining it or ask for changes in case needed.

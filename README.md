@@ -3,7 +3,7 @@
 
 Thank you all for your thoughtful feedback. We’ve heard you and we sincerely apologize for the confusion. Submissions will remain open until Monday, May 25th midnight.  Unfortunately, we have reached capacity for our Tier 2 swag requests and cannot continue to offer that as of today.  However, all submissions are eligible to receive Tier 1 swag and have projects reviewed for the ceremony. Submit your projects, join the yearbook, and participate in the event! 
 
-The swag request form link has changed. Now, you can access to it through this [link](https://airtable.com/shrmuHxu38ZariKJi).
+The swag request [form](https://airtable.com/shrmuHxu38ZariKJi) link has changed.
 
 **❤️ The GitHub Education Team**
 
@@ -19,8 +19,6 @@ The swag request form link has changed. Now, you can access to it through this [
 ![Graduation Mona](assets/card-min.png)
 
 This repository contains the [yearbook](https://education.github.com/graduation/yearbook) of the **$ git remote < graduation >** event. By issuing a pull request to this repository, you can request to be added to the Class of 2020. 
-
-Join the event and receive GitHub swag in the comfort of your home!
 
 
 ## Privacy Notice 👀

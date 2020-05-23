@@ -2,6 +2,6 @@
 name: Jin Kim
 institution: McMaster University
 profile_pic: jin.png
-quote: Work Git, Pray, Love
+quote: Git, Pray, Love
 github_user: redgam8
 ---

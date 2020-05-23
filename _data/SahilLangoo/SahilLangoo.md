@@ -1,7 +1,7 @@
 ---
 name: Sahil Langoo
-institution: Kashmir Govt. Polytechnic
+institution: Kashmir Govt. Polytechnic 🚩
 profile_pic: SahilLangoo.png
-quote: "Coffee,Code,Debugging"
+quote: Survive,Coffee,Code!
 github_user: SahilLangoo
 ---

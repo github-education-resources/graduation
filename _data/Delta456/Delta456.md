@@ -2,6 +2,6 @@
 name: Swastik Baranwal
 institution: Mount Carmel School 🚩
 profile_pic: delta456.png
-quote
+quote: A noob
 github: Delta456
 ---

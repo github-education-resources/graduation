@@ -1,5 +1,7 @@
-name: Satya Kumar
+---
+name: Satya Kumar Itekela
 institution: Dalhousie University
-profile_pic: DP1.jpg
-quote: NO PAIN NO GAIN
+profile_pic: profile.jpg
+quote: No pain No gain
 github_user: satyakumaritekela
+---

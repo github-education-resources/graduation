@@ -1,8 +1,7 @@
-
 ---
 name: Namandeep Singh
-institution: JAIPUR ENGINEERING COLLEGE AND RESEARCH CENTRE
+institution: Jaipur Engineering College And Research Centre
 profile_pic: naman.jpg
-quote: Four years of Re-Formation! 
+quote: "Four Years of Re-Formation!"
 github_user: nd-singh
 ---

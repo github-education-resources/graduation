@@ -2,6 +2,6 @@
 name: Manuel Nagel
 institution: University of Applied Sciences Technikum Wien
 profile_pic: namanuel.png
-quote: 0x00
+quote: IBLVOB NBUBUB
 github_user: namanuel
 ---

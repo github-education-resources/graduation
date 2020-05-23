@@ -5,5 +5,8 @@ institution: Aktu Lucknow
 
 profile_pic: Abhi.jpg
 
-quote: "Thanks to My friends who always with me.I am going to miss you!" 
+quote: "I am going to miss you my Friends!"
+
 github_user: abhishektayal216
+
+---

@@ -1,4 +1,4 @@
-﻿---
+---
 name: Daniel Pottenger
 institution: Glyndwr University
 profile_pic: rixium.jpg

@@ -1,3 +1,11 @@
+# NOTE
+New submissions to the year book are now **closed** (2:30 PM PDT). Those who have already submitted a pull request, is on review or pending changes you can still get added to the yearbook by submitted those changes in the pull request you already have (without creating a new PR). Don’t worry, you can still attend the event! git remote < graduation > is happening on June 15th 9:00 PDT | 21:30 IST at twitch.tv/githubeducation  🥳 🎓
+
+You all have been incredible offering to help review, supporting each other in contributing to the graduation repository, and coming up with the most creative yearbook quotes 😂 We are blown away by the kindness of our community 🙌 and can’t wait to celebrate with all of you wonderful humans 
+
+**❤️ The GitHub Education Team**
+
+---
 
 ![Graduation Mona](assets/card-min.png)
 
@@ -32,7 +40,7 @@ Any higher education student that has or will graduate in 2020 can apply to the 
 - Master's Graduates
 - Ph.D. Graduates
 
-# How to join the Class of 2020
+# How to join the Class of 2020 (CLOSED 🔴)
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
@@ -63,7 +71,7 @@ _data/MonaTheOctocat/MonaTheOctocat.md
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 ```
 ---
-name: FULLNAME-OR-NICKNAME # No longer than 18 characters
+name: FULLNAME-OR-NICKNAME # No longer than 28 characters
 institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
 profile_pic: mona.png # Name and extension of your profile picture(ex. mona.png)
 quote: YOUR-SENIOR-QUOTE # no longer than 100 characters

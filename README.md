@@ -1,9 +1,24 @@
+# UPDATES
+## May 23th, 2020 - 8:00 AM PT
+
+Thank you all for your thoughtful feedback. We’ve heard you and we sincerely apologize for the confusion. Submissions will remain open until Monday, May 25th midnight.  Unfortunately, we have reached capacity for our Tier 2 swag requests and cannot continue to offer that as of today.  However, all submissions are eligible to receive Tier 1 swag and have projects reviewed for the ceremony. Submit your projects, join the yearbook, and participate in the event! 
+
+The swag request [form](https://airtable.com/shrmuHxu38ZariKJi) link has changed.
+
+**❤️ The GitHub Education Team**
+
+---
+~~New submissions to the year book are now **closed** (2:30 PM PDT). Those who have already submitted a pull request, is on review or pending changes you can still get added to the yearbook by submitted those changes in the pull request you already have (without creating a new PR). Don’t worry, you can still attend the event! git remote < graduation > is happening on June 15th 9:00 PDT | 21:30 IST at twitch.tv/githubeducation  🥳 🎓~~
+
+~~You all have been incredible offering to help review, supporting each other in contributing to the graduation repository, and coming up with the most creative yearbook quotes 😂 We are blown away by the kindness of our community 🙌 and can’t wait to celebrate with all of you wonderful humans~~
+
+~~**❤️ The GitHub Education Team**~~
+
+---
 
 ![Graduation Mona](assets/card-min.png)
 
 This repository contains the [yearbook](https://education.github.com/graduation/yearbook) of the **$ git remote < graduation >** event. By issuing a pull request to this repository, you can request to be added to the Class of 2020. 
-
-Join the event and receive GitHub swag in the comfort of your home!
 
 
 ## Privacy Notice 👀
@@ -20,8 +35,8 @@ Tiers reward the effort graduates make for this celebration. By adding yourself 
 
 - **Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping form. 
 
-- **Tier 2** 🛍: Follow the steps on Tier 1 and write a post on DEV about a project you've built while being a student. You can use this [template](https://dev.to/new/octograd2020) to get started!
-- **Tier 3** 🏅: The best project posts on DEV will be highlighted live on stream during the graduation.
+- ~~**Tier 2** 🛍: Follow the steps on Tier 1 and write a post on DEV about a project you've built while being a student. You can use this [template](https://dev.to/new/octograd2020) to get started!~~
+- ~~**Tier 3** 🏅: The best project posts on DEV will be highlighted live on stream during the graduation.~~
 
 # Who can apply 📝
 Any higher education student that has or will graduate in 2020 can apply to the yearbook.
@@ -63,10 +78,10 @@ _data/MonaTheOctocat/MonaTheOctocat.md
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 ```
 ---
-name: FULLNAME-OR-NICKNAME # No longer than 18 characters
+name: FULLNAME-OR-NICKNAME # No longer than 28 characters
 institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
-profile_pic: mona.png # Name and extension of your profile picture(ex. mona.png)
-quote: YOUR-SENIOR-QUOTE # no longer than 100 characters
+profile_pic: mona.png # Name and extension of your profile picture(ex. mona.png) The picture must be squared and 544px on width and height.
+quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
 github_user: YOUR-GITHUB-USERNAME
 ---
 ```

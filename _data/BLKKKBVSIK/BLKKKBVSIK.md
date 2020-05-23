@@ -2,6 +2,6 @@
 name: Enzo CONTY
 institution: Epitech
 profile_pic: blkkkbvsik.jpg
-quote: I'm a simple men, I like Flutter & Dart.
+quote: Work until you know every single build error possible.
 github_user: BLKKKBVSIK
 ---

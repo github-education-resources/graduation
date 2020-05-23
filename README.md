@@ -1,9 +1,18 @@
-# NOTE
-New submissions to the year book are now **closed** (2:30 PM PDT). Those who have already submitted a pull request, is on review or pending changes you can still get added to the yearbook by submitted those changes in the pull request you already have (without creating a new PR). Don’t worry, you can still attend the event! git remote < graduation > is happening on June 15th 9:00 PDT | 21:30 IST at twitch.tv/githubeducation  🥳 🎓
+# UPDATES
+## May 23th, 2020 - 8:00 AM PT
 
-You all have been incredible offering to help review, supporting each other in contributing to the graduation repository, and coming up with the most creative yearbook quotes 😂 We are blown away by the kindness of our community 🙌 and can’t wait to celebrate with all of you wonderful humans 
+Thank you all for your thoughtful feedback. We’ve heard you and we sincerely apologize for the confusion. Submissions will remain open until Monday, May 25th midnight.  Unfortunately, we have reached capacity for our Tier 2 swag requests and cannot continue to offer that as of today.  However, all submissions are eligible to receive Tier 1 swag and have projects reviewed for the ceremony. Submit your projects, join the yearbook, and participate in the event! 
+
+The swag request form link has changed. Now, you can access to it through this [link](https://airtable.com/shrmuHxu38ZariKJi).
 
 **❤️ The GitHub Education Team**
+
+---
+~~New submissions to the year book are now **closed** (2:30 PM PDT). Those who have already submitted a pull request, is on review or pending changes you can still get added to the yearbook by submitted those changes in the pull request you already have (without creating a new PR). Don’t worry, you can still attend the event! git remote < graduation > is happening on June 15th 9:00 PDT | 21:30 IST at twitch.tv/githubeducation  🥳 🎓~~
+
+~~You all have been incredible offering to help review, supporting each other in contributing to the graduation repository, and coming up with the most creative yearbook quotes 😂 We are blown away by the kindness of our community 🙌 and can’t wait to celebrate with all of you wonderful humans~~
+
+~~**❤️ The GitHub Education Team**~~
 
 ---
 
@@ -28,8 +37,8 @@ Tiers reward the effort graduates make for this celebration. By adding yourself 
 
 - **Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping form. 
 
-- **Tier 2** 🛍: Follow the steps on Tier 1 and write a post on DEV about a project you've built while being a student. You can use this [template](https://dev.to/new/octograd2020) to get started!
-- **Tier 3** 🏅: The best project posts on DEV will be highlighted live on stream during the graduation.
+- ~~**Tier 2** 🛍: Follow the steps on Tier 1 and write a post on DEV about a project you've built while being a student. You can use this [template](https://dev.to/new/octograd2020) to get started!~~
+- ~~**Tier 3** 🏅: The best project posts on DEV will be highlighted live on stream during the graduation.~~
 
 # Who can apply 📝
 Any higher education student that has or will graduate in 2020 can apply to the yearbook.
@@ -40,7 +49,7 @@ Any higher education student that has or will graduate in 2020 can apply to the 
 - Master's Graduates
 - Ph.D. Graduates
 
-# How to join the Class of 2020 (CLOSED 🔴)
+# How to join the Class of 2020
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
@@ -73,8 +82,8 @@ Copy the next template into your file, delete the boilerplate data and fill the 
 ---
 name: FULLNAME-OR-NICKNAME # No longer than 28 characters
 institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
-profile_pic: mona.png # Name and extension of your profile picture(ex. mona.png)
-quote: YOUR-SENIOR-QUOTE # no longer than 100 characters
+profile_pic: mona.png # Name and extension of your profile picture(ex. mona.png) The picture must be squared and 544px on width and height.
+quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
 github_user: YOUR-GITHUB-USERNAME
 ---
 ```

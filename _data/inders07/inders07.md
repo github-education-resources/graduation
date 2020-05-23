@@ -1,5 +1,7 @@
-name: INDERJEET
-institution: MALAVIYA NATIONAL INSTITUTE OF TECHNOLOGY
+---
+name: Inderjeet Singh
+institution: Malaviya National Institute of Technology
 profile_pic: inder.jpg
-quote: data can never lie
+quote: Animes are the best
 github_user: inders07
+---

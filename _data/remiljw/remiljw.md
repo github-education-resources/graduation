@@ -1,7 +1,7 @@
 ---
-name: MICHAEL AJANAKU 
-institution: YABA COLLEGE OF TECHNOLOGY 🚩
+name: Michael Ajanaku 
+institution: Yaba College of Tecnology🚩
 profile_pic: remiljw.png 
-quote: BETTER TO TRY AND FAIL THAN NOT TRY AT ALL.
-github_user: REMILJW 
+quote: Better to try and fail than not to try at all.
+github_user: remiljw
 ---

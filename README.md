@@ -55,7 +55,7 @@ _data/MonaTheOctocat/mona.png
 _Be aware, this picture will be displayed on the yearbook!_
 
 ## 3. Add your profile information
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>`. Ex.
+Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
 
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md

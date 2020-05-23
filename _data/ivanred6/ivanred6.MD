@@ -1,18 +1,7 @@
-# Application to the Class of 2020🎓
-
-This pull request template helps you complete an application to the **Class of 2020**. Use the checklist below to verify you have followed the instructions correctly. 
-
-## Checklist ✅
-
-- [X] I have read the instructions on the README file before submitting my application. 
-- [X] I made my submission by creating a folder on the `_data` folder and followed the naming convention mentioned in the instructions (`<username>`), added my profile picture and markdown file.
-- [X] I have used the Markdown file template to add my information to the Year Book.
-- [X] I have completed the form: `https://airtable.com/shrmuHxu38ZariKJi`
-- [X] My application belongs to:
-  - [X] **Tier 1** 📖: I added myself to the Year Book.
-  - [X] **Tier 2** ✏️: I wrote a post on DEV about a project I built.
-  - [X] **Tier 3** ✨: I want my project to be highlighted on stream.
-- [X] I understand that a reviewer will merge my pull request after examining it or ask for changes in case needed.
-- [X] I understand I should not tag or add a reviewer to this Pull Request.
-- [X] I understand the photo added to the template will be used in the ceremony "Graduate Walk". 
-- [X] I have [added the event](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200615T160000Z%2F20200615T183000Z&text=%24%20git%20remote%20%3Cgraduation%3E%20%F0%9F%8E%93&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=) to my Calendar.
+---
+name: ivanred6 # No longer than 28 characters
+institution: University of York 🚩 # no longer than 58 characters
+profile_pic: ivanred6.jpg # Name and extension of your profile picture(ex. mona.png) The picture must be squared and 544px on width and height.
+quote: He who stands still, is doomed to cement. # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+github_user: ivanred6
+---

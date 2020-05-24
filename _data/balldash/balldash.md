@@ -1,7 +1,7 @@
 ---
-name: BISLON ZULU
-institution: UNIVERSITY OF LUSAKA
+name: Bislon Zulu
+institution: University of Lusaka
 profile_pic: bislon.JPG
 quote: "If you're afraid, it's probably a worthwhile adventure."
-github_user: @balldash
+github_user: balldash
 ---

@@ -1,5 +1,7 @@
-name: SAHIL SEN
-institution: PARUL INSTITUTE OF ENGINEERING AND TeCHNOLOGY
-profile_pic: sahil.jpg
-quote: Ahhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!!!!!!!!
+---
+name: Sahil Sen
+institution: Parul Institute of Engineering and Technology
+profile_pic: sahil.JPG
+quote: Future is written in Code
 github_user: Sahilsen
+---

@@ -1,7 +1,7 @@
 ---
 name: Mark Vonk
 institution: Hogeschool Rotterdam
-profile_pic: Moi_550x552.jpg
-quote: "Pull. Commit. Push. Repeat."
+profile_pic: moi_550x550.jpg
+quote: Pull. Commit. Push. Repeat.
 github_user: markjhvonk
 ---

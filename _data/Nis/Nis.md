@@ -2,8 +2,6 @@
 name: Nishant Gautam 
 institution:  Visvesvaraya Technological University(VTU)
 profile_pic: Nis.png
-quote: Make it or break it , curse it or rejoice it.The life of a developer is a never ending learning Path.
+quote: Make it or break it,curse it or rejoice it.
 github_user: NishantGautam023
 ---
-
-

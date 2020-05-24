@@ -1,5 +1,5 @@
 name: Raghav Shukla
 institution: Shri Shankracharya Institute of Professional Management and Tech
 profile_pic: Raghav-byte.jpg
-quote: The Happier We Get, The Less We See #Asian
+quote: Why Fall In Love When You Can Fall Asleep
 github_user: Raghav-byte

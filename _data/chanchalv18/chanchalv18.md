@@ -5,10 +5,3 @@ profile_pic: chanchal.jpg
 quote: Follow your dreams 
 github_user: chanchalv18
 ---
-
-
-
-
-
-
-

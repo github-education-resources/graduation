@@ -1,5 +1,7 @@
+---
 name: Mohamed Ayman
-institution: Nermine Ismail School
-profile_pic: moh.jpg
-quote: what goes around, comes around
+institution: Nermien Ismail School
+profile_pic: mohamed-abead.png
+quote: "Heroes aren't born they are made"
 github_user: mohamed-abead
+---

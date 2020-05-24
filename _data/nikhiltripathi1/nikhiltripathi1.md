@@ -1,7 +1,7 @@
 ---
-name: Nikhil Tripathi # No longer than 28 characters
-institution: Dr. Akhilesh Das gupta Institute of Technology and Management # no longer than 58 characters
-profile_pic: nikhil.png # Name and extension of your profile picture(ex. mona.png)
-quote: exploring or escaping, what should we choose? # no longer than 100 characters
+name: Nikhil Tripathi 
+institution: Dr. Akhilesh Das gupta Institute of Technology and Management 
+profile_pic: nikhil.png 
+quote: exploring or escaping, what should we choose?
 github_user: nikhiltripathi1
 ---

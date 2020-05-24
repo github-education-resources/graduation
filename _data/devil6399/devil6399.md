@@ -2,6 +2,6 @@
 name: Harsh Gupta
 institution: Motilal Nehru National Institute Of Technology
 profile_pic: harsh.jpg
-quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+quote: readMe completed
 github_user: devil6399
 ---

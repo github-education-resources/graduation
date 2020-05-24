@@ -1,7 +1,7 @@
 ---
 name: Sohail Pathan # No longer than 18 characters
 institution: Lovely Professional University # no longer than 58 characters
-profile_pic: sohail.png # Relative path to the image you uploaded
-quote: "I'm going to graduate, I want to thank teachers, Google, Wikipedia, coffee, and copy paste for helping in this journey." # No longer than 100 characters
+profile_pic: sohail.jpg # Relative path to the image you uploaded
+quote: It's not only semester and assignment, this four year journey taught us collaboration and friendship # No longer than 100 characters
 github_user: iamspathan
 ---

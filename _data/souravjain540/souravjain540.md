@@ -1,8 +1,7 @@
-
 ---
-name: Saurav Jain 
-institution: BM INSTITUTE OF ENGG AND TECHNOLOGY 
-profile_pic: pic.jpg
-quote: A AMAZING COLLEGE LIFE IT WAS !!!
-github_user: souravjain540
+name: SAURAV # No longer than 18 characters
+institution: BMIET 🚩 # no longer than 58 characters
+profile_pic: pic.jpg # Name and extension of your profile picture(ex. mona.png)
+quote:  What a awesom college life it was ! # no longer than 100 characters
+github_user: souravjain40
 ---

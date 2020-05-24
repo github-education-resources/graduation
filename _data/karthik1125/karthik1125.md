@@ -2,6 +2,6 @@
 name: KARTHIKEYA MANTHRI
 institution: INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SRI CITY
 profile_pic: Karthik_octocat.png
-quote: I have learned from the bad times and was humbled by the good. Thank you for all of the great life lessons.
+quote: Build your own dreams, or someone else will hire you to build theirs.
 github_user: karthik1125
 ---

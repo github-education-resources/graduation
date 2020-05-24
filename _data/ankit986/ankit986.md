@@ -1,8 +1,8 @@
-
 ---
-name: Ankit Bansal
-institution: Government Engineering College, Bilaspur, India
-profile_pic: ankit986.jpg
-quote: Programming gives me mental piece. 
+name: ANKIT BANSAL 
+institution: GOVERNMENT ENGINEERING COLLEGE 🚩
+profile_pic: ankit986.jpg 
+quote: PROGRAMMING GIVES ME MENTAL PIECE 
 github_user: ankit986
 ---
+

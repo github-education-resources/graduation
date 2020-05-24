@@ -1,9 +1,11 @@
-name:  ISAAC JOHN
+---
+name:  Isaac John
 
-institution: ALISON
+institution: Alison 🚩
 
 profile_pic: yerimaisaac.jpg
 
-quote:   Utilize every opportunity you have and develop yourself Thanks to Alison for giving me an opportunity to learn for free
+quote:   Utilize every opportunity and develop yourself Tnx to Alison  
 
 github_user: yerimaisaac
+---

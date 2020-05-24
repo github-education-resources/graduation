@@ -1,6 +1,14 @@
-
-name: Chanchal V 
-institution: GGITS Jabalpur, MP India
+---
+name: Chanchal Vishwakarma
+institution: GGITS, Jabalpur India
 profile_pic: chanchal.jpg
-quote: If you follow your dreams, you are capable of anything.
-github_user:chanchalv18
+quote: Follow your dreams 
+github_user: chanchalv18
+---
+
+
+
+
+
+
+

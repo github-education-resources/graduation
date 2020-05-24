@@ -1,6 +1,6 @@
 ---
 name: Ankit Kharb
-institution: J.C Bose University of science and technology,faridabad,haryana,india
+institution: JCBUST faridabad
 profile_pic: ankit.jpg
 quote: Happy to be here.
 github_user: Ankit-Kharb

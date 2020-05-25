@@ -1,7 +1,7 @@
 ---
 name: Vishaal Udandarao # No longer than 18 characters
 institution: IIIT Delhi 🚩 # no longer than 58 characters
-profile_pic: vishaal27.png # Name and extension of your profile picture(ex. mona.png)
+profile_pic: vishaal27.jpg # Name and extension of your profile picture(ex. mona.png)
 quote: A Brownian Bridge Gaussian Process models my motivation levels throughout college # no longer than 100 characters
 github_user: vishaal27
 ---

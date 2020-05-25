@@ -2,6 +2,6 @@
 name: DTO
 institution: Santa Clara University
 profile_pic: dtokazaki.png
-quote: Always remember to kill your child processes before yourself
+quote: It worked on my machine
 github_user: dtokazaki
 ---

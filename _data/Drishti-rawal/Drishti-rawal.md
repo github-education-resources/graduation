@@ -1,5 +1,7 @@
+---
 name: Drishti Rawal
-institution: Bharati vidyapeeth institute of computer applications
-profile_pic: 3A9A0693_edited-min.jpg
+institution: Bharati vidyapeeth's institute of computer applications
+profile_pic: drishti.jpeg
 quote: Believe, and you shall recieve.
 github_user: Drishti-rawal
+---

@@ -1,7 +1,7 @@
 ---
 name: Ashutosh Shenoy 
 institution: Manipal University Jaipur
-profile_pic: ashutosh.png 
+profile_pic: Ashutosh.png 
 quote: Happy coding guys
 github_user: randomuy1289
 ---

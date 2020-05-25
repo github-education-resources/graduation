@@ -1,0 +1,7 @@
+---
+name: KUL GARIMA 
+institution: JSS INSTITUTE OF TECHNICAL EDUCATION NOIDA INDIA 🚩 
+profile_pic: kul.jpg
+quote: BE STRONG ENOUGH TO STAND ALONE AND SMART ENOUGH TO KNOW WHEN YOU NEED HELP
+github_user: kulgarima
+---

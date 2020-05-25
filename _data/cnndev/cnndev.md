@@ -1,7 +1,7 @@
 ---
-name: CHIHURUMNANYA NWANEVU # No longer than 28 characters
-institution: MOUAU, NIGERIA 🚩 # no longer than 58 characters
-profile_pic: cnndev.png # Name and extension of your profile picture(ex. mona.png) The picture must be squared and 544px on width and height.
-quote: NEVER GIVE UP # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+name: CHIHURUMNANYA NWANEVU
+institution: MOUAU NIGERIA 🚩
+profile_pic: cnndev.png
+quote: NEVER GIVE UP 
 github_user: cnndev
 ---

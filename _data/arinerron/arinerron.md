@@ -2,6 +2,6 @@
 name: Aaron Esau
 institution: Tigard High School
 profile_pic: arinerron2-filled.png	
-quote: i use arch btw '>"><svg/onload=alert()> ${{2*2}}
+quote: "If you think your users are idiots, only idiots will use it." -Linus Torvalds
 github_user: Arinerron
 ---

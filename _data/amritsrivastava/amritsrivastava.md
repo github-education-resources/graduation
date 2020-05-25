@@ -5,5 +5,3 @@ profile_pic: amrit.jpg
 quote: 'Be not afraid of growing slowly, be afraid of standing still.'
 github_user: amritsrivastava
 ---
-
-

@@ -1,7 +1,7 @@
 ---
 name: Bharadwaj Giridhar
-institution: PSNA College of Engineering and Technology, Anna University. 
+institution: PSNA College of Engineering. 
 profile_pic: goforbg.jpg 
-quote: "It's never a bug, it's a feature you don't know how to use" 
+quote: "It's never a bug, it's a feature" 
 github_user: goforbg
 ---

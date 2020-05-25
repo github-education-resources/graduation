@@ -1,7 +1,7 @@
 ---
 name: Sneha Ramachandran Nair
 institution: University of Texas at Dallas
-profile_pic: s-tintin.png
+profile_pic: professional pic.png
 quote: Tough times never last but tough people do
 github_user: s-tintin
 ---

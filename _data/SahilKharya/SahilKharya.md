@@ -1,5 +1,5 @@
 name: Sahil Kharya
 institution: JECRC University
 profile_pic: sahilkharya.jpg
-quote: You learn by experience and travelling gives me that experience.
+quote: Do whatever you wish, but never stop.
 github_user: SahilKharya

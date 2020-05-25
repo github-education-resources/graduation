@@ -2,6 +2,6 @@
 name: SAGAR BANSAL
 institution: VNIT, NAGPUR 🚩
 profile_pic: sagban.png
-quote: It's going to be difficult and challenging, and you will feel like quitting. But in the end, It's incredibly rewarding and empowering!
+quote: Patience is the key to success especially when you are talking about programming.
 github_user: sagban
 ---

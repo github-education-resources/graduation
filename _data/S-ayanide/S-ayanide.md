@@ -2,6 +2,6 @@
 name: SAYAN MONDAL
 institution: KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY
 profile_pic: S-ayanide.png
-quote: Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live
+quote: There is always that piece of code you don't understand what it does or how it works, leave it alone
 github_user: S-ayanide
 ---

@@ -1,7 +1,7 @@
 ---
-name: elchris
-institution: Λύκειο Αρχαγγέλου "Απόστολος Μάρκος"
+name: Christoforos Charalambous
+institution: Λύκειο Αρχαγγέλου “Απόστολος Μάρκος”
 profile_pic: elchris.png
-quote: Hard and honest work will always find a way to shine, don't let anything stop from doing what you love.
+quote: There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 github_user: ELChris414
 ---

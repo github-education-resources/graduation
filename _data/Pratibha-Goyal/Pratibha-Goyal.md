@@ -1,5 +1,5 @@
 name: Pratibha Goyal
 institution: LNM Institute of Information Technology
-profile_pic: pratibha.png  picture must be squared and 544px on width and height.
+profile_pic: pratibha.png 
 quote: Be an awaiter!
 github_user: Pratibha-Goyal

@@ -15,7 +15,7 @@ Looking for more ways to support the Class of 2020? Here are a few ideas:
 
 [📪](https://emojipedia.org/closed-mailbox-with-lowered-flag/) Have patience. If you submitted your form before May 26th, 2020 at 12:00 AM PDT, we will be sending you something in the mail. Please understand this takes time. We’re doing our best to get things to you before the event but in some cases shipments may take longer. 
 
-See you on June 15th! And in the words of @juanpfores, let’s make this AWESOME. 
+See you on June 15th! And in the words of @juanpflores, let’s make this AWESOME. 
 
 ❤️ @elisemoe + The GitHub Education Team
 

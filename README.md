@@ -25,7 +25,7 @@ See you on June 15th! And in the words of @juanpfores, let’s make this AWESOME
 
 Thank you all for your thoughtful feedback. We’ve heard you and we sincerely apologize for the confusion. Submissions will remain open until Monday, May 25th midnight.  Unfortunately, we have reached capacity for our Tier 2 swag requests and cannot continue to offer that as of today.  However, all submissions are eligible to receive Tier 1 swag and have projects reviewed for the ceremony. Submit your projects, join the yearbook, and participate in the event! 
 
-The swag request [form](https://airtable.com/shrmuHxu38ZariKJi) link has changed.
+~~The swag request [form](https://airtable.com/shrmuHxu38ZariKJi) link has changed.~~
 
 **❤️ The GitHub Education Team**
 
@@ -55,7 +55,7 @@ Consider that all the information that you add to this repository will be public
 Tiers reward the effort graduates make for this celebration. By adding yourself to the yearbook and writing a post on DEV, you will get access to extra benefits. Make sure you submit your pull request before midnight Monday, May 25th PDT.
 
 
-- **Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping form. 
+- ~~**Tier 1** ✉: Add yourself to the Yearbook by submitting a pull request to this repository and filling the swag shipping form.~~
 
 - ~~**Tier 2** 🛍: Follow the steps on Tier 1 and write a post on DEV about a project you've built while being a student. You can use this [template](https://dev.to/new/octograd2020) to get started!~~
 - ~~**Tier 3** 🏅: The best project posts on DEV will be highlighted live on stream during the graduation.~~
@@ -112,7 +112,7 @@ _Do not use special characters in the template above._
 
 ## 4. Form & Pull Request
 
-Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit your Pull Request. 
+~~Fill a [swag shipment form](https://airtable.com/shrmuHxu38ZariKJi) and submit your Pull Request~~
 
 Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the pull request comment section. 
 

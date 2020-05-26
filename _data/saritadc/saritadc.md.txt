@@ -1,0 +1,7 @@
+---
+name: Sarita Dangi
+institution: Nepal College of Information Technology
+profile_pic: saritadc.png 
+quote: "Expect the unexpected and whenever possible be the unexpected."
+github_user: saritadc
+---

@@ -1,4 +1,26 @@
 # UPDATES
+## May 26th, 2020 - 12:00 AM PT
+
+What a weekend 😅! You all showed up in such an incredible way. We are honored to be a part of your graduation experience. From helping each other submit pull requests to keeping our days entertained with your quotes. Thank you.
+
+If you haven’t yet merged your pull request to the Yearbook but have submitted the shipping form, you still qualify for the tier you submitted. **Please continue updating your pull request or submit a new one as you’re able to make changes.** We’ll continue to review and get everyone merged before the event on June 15th. 
+
+If you have not created a pull request to the Yearbook and would like to join the Class of 2020, you’re welcome to do so! We are no longer accepting swag shipment forms but would love to have you a part of the ceremony. Please create a pull request following the directions on How to join the Class of 2020 below. 
+
+Looking for more ways to support the Class of 2020? Here are a few ideas:
+
+👩‍💻 Continue providing feedback on pull requests and to help your classmates get their PR ready to merge. We appreciate your help and love seeing the magic of social coding.
+
+✍️ Head on over to [DEV](https://dev.to/t/octograd2020) and check out the projects you’ve all been working on this year. Leave a comment, share a story, or learn something new! We’ll be choosing projects to highlight at graduation (Tier 3) based on the ones you like.
+
+[📪](https://emojipedia.org/closed-mailbox-with-lowered-flag/) Have patience. If you submitted your form before May 26th, 2020 at 12:00 AM PDT, we will be sending you something in the mail. Please understand this takes time. We’re doing our best to get things to you before the event but in some cases shipments may take longer. 
+
+See you on June 15th! And in the words of @juanpfores, let’s make this AWESOME. 
+
+❤️ @elisemoe + The GitHub Education Team
+
+---
+
 ## May 23th, 2020 - 8:00 AM PT
 
 Thank you all for your thoughtful feedback. We’ve heard you and we sincerely apologize for the confusion. Submissions will remain open until Monday, May 25th midnight.  Unfortunately, we have reached capacity for our Tier 2 swag requests and cannot continue to offer that as of today.  However, all submissions are eligible to receive Tier 1 swag and have projects reviewed for the ceremony. Submit your projects, join the yearbook, and participate in the event! 

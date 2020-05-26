@@ -1,7 +1,7 @@
 ---
 name: Shruti Chandra
-institution: International Institute of Information Technology, Hyderabad, India
+institution: IIIT, Hyderabad, India
 profile_pic: shrutiichandra.png 
-quote: (sic) Stay Hungry, Stay foolish
+quote:  Stay Hungry, Stay foolish(sic)
 github_user: shrutiichandra
 ---

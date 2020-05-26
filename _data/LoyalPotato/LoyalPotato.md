@@ -1,6 +1,6 @@
 ---
 name: LoyalPotato
-institution: Instituto Politécnico de Leiria
+institution: Instituto Politecnico de Leiria
 profile_pic: Cool&Warm.png
 quote: It's over :)
 github_user: LoyalPotato

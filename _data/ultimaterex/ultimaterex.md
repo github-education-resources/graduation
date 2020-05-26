@@ -1,5 +1,5 @@
 name: Rex Serubii
-institution: HHS 
+institution: HHS
 profile_pic: rex.png
-quote: >git push --f --u origin master
+quote: import antigravity
 github_user: ultimaterex

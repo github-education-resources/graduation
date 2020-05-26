@@ -5,6 +5,3 @@ profile_pic: iambonface.png # Name and extension of your profile picture(ex. mon
 quote: Unless you try, you will never learn new tricks! # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
 github_user: iambonface
 ---
-
-
-

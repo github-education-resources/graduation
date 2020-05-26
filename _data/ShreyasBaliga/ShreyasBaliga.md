@@ -2,6 +2,6 @@
 name: Shreyas Baliga
 institution: Sahyadri College of Engineering and Management
 profile_pic: shreyas.jpg
-quote: “A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.” – George R. R. Martin
+quote: "Life is what happens when you're busy making other plans." -John Lennon
 github_user: ShreyasBaliga
 ---

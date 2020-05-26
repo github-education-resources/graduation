@@ -1,5 +1,5 @@
 name: Wayson Lee
 institution: Folsom High School
 profile_pic: Doby.jpg
-quote: No I'm Chinese 
+quote: Hope is something you give yourself
 github_user: dnowuser

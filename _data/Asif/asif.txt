@@ -1,7 +1,0 @@
----
-name: Mohd Asif Khan
-institution: Jaipur National University
-profile_pic: asif2.png
-quote: Change accpect when it is done
-github_user: MohdAs1f 
----

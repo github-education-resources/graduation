@@ -2,6 +2,6 @@
 name: Addison Kimball
 institution: Southern Methodist University
 profile_pic: addison.jpg
-quote: "I have complete faith in the continued absurdity of whatever's going on." - Jon Stewart
+quote: Easily the most interesting four years of my life!
 github_user: awkimball
 ---

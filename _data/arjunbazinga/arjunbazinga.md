@@ -1,7 +1,7 @@
 ---
 name: Arjun Srivastava
 institution: Indian Institute of Technology
-profile_pic: arjun.jpeg 
-quote: One mans modus ponens is another mans modus tollens
+profile_pic: arjun.jpg 
+quote: They always say time changes things, but you actually have to change them yourself.
 github_user: arjunbazinga
 ---

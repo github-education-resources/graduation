@@ -2,6 +2,6 @@
 name: William Cabell
 institution: Virginia Tech
 profile_pic: not_found.png
-quote: "If one uses the tools of modern algebraic topology, singular homology theory in particular, the proof is quite straightfoward." - James Munkres
+quote: I hear there's rumors on the Internets -- President George W. Bush
 github_user: cabellwg
 ---

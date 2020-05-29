@@ -1,4 +1,4 @@
-	---
+---
 name: Anuj
 institution: Army Institute of Technology
 profile_pic: underscoreanuj.jpg

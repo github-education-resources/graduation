@@ -1,7 +1,7 @@
 ---
-name: FREX C. CUADILLERA # No longer than 28 characters
-institution: SOUTHERN LUZON STATE UNIVERSITY # no longer than 58 characters
-profile_pic: frexcuadillera.jpg # Name and extension of your profile picture(ex. mona.png) The picture must be squared and 544px on width and height.
-quote: If you expect respect, be the first to show it. # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+name: FREX C. CUADILLERA
+institution: SOUTHERN LUZON STATE UNIVERSITY
+profile_pic: frexcuadillera.jpg
+quote: If you expect respect, be the first to show it.
 github_user: frexcuadillera
 ---

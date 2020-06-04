@@ -65,16 +65,16 @@ glob('_data/**/*.md', null, (er, files) => {
     }
 
     // Resize image
-    const imageSize = execSync(`identify ${imagePath}`, { encoding: 'utf-8' })
-    if (!('' + imageSize).match(/544x544/)) {
-      try {
-        console.log(`Resizing ${imageSize}`)
-        const mogrify = execSync(`mogrify -resize "544x544^" -gravity center -extent "544x544" ${imagePath}`, { encoding: 'utf-8' });
-        console.log(mogrify)
-      } catch (e) {
-        // ignore
-      }
-    }
+    // const imageSize = execSync(`identify ${imagePath}`, { encoding: 'utf-8' })
+    // if (!('' + imageSize).match(/544x544/)) {
+    //   try {
+    //     console.log(`Resizing ${imageSize}`)
+    //     const mogrify = execSync(`mogrify -resize "544x544^" -gravity center -extent "544x544" ${imagePath}`, { encoding: 'utf-8' });
+    //     console.log(mogrify)
+    //   } catch (e) {
+    //     // ignore
+    //   }
+    // }
 
     // try {
     //   console.log(`Optimizing ${newImagePath}`)

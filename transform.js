@@ -51,19 +51,18 @@ glob('_data/**/*.md', null, (er, files) => {
 
     // Check that the profile_pic exists
     const imagePath = `${dirname}/${atts["profile_pic"]}`
-    const newImagePath = `${dirname}/yearbook.jpg`
-    // exts[path.extname(imagePath)] = 1
-    // const imageExists = fs.existsSync(imagePath)
-    // if (!imageExists) {
-    //   console.log("Image does not exist: " + imagePath)
-    // }
-    // const imageStats = fs.lstatSync(imagePath)
-    // if (!imageStats.isFile()) console.log(`Image is not a file: ${imagePath}`)
-    // if (imageStats.isSymbolicLink()) console.log(`File is a symbolic link: ${imagePath}`)
-    // if (imageStats.mode !== 33188) {
-    //   console.log(`File mode is: ${imagePath} ${imageStats.mode}`) // 33188 == 644
-    //   fs.chmodSync(imagePath, "644")
-    // }
+    exts[path.extname(imagePath)] = 1
+    const imageExists = fs.existsSync(imagePath)
+    if (!imageExists) {
+      console.log("Image does not exist: " + imagePath)
+    }
+    const imageStats = fs.lstatSync(imagePath)
+    if (!imageStats.isFile()) console.log(`Image is not a file: ${imagePath}`)
+    if (imageStats.isSymbolicLink()) console.log(`File is a symbolic link: ${imagePath}`)
+    if (imageStats.mode !== 33188) {
+      console.log(`File mode is: ${imagePath} ${imageStats.mode}`) // 33188 == 644
+      fs.chmodSync(imagePath, "644")
+    }
 
     // Resize image
     //    const imageSize = execSync(`identify ${imagePath}`, { encoding: 'utf-8' })
@@ -78,13 +77,13 @@ glob('_data/**/*.md', null, (er, files) => {
     // }
     //   }
 
-    try {
-      console.log(`Optimizing ${newImagePath}`)
-      const optimize = execSync(`/Applications/ImageOptim.app/Contents/MacOS/ImageOptim ${newImagePath}`, { encoding: 'utf-8' });
-      console.log(optimize)
-    } catch (e) {
-      console.error(e)
-    }
+    // try {
+    //   console.log(`Optimizing ${newImagePath}`)
+    //   const optimize = execSync(`/Applications/ImageOptim.app/Contents/MacOS/ImageOptim ${newImagePath}`, { encoding: 'utf-8' });
+    //   console.log(optimize)
+    // } catch (e) {
+    //   console.error(e)
+    // }
 
 
 

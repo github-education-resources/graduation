@@ -1,7 +1,7 @@
 ---
 name: Tate Walker
 institution: Texas A&M University
-profile_pic: 0Y5A9019.jpg
+profile_pic: square.jpeg
 quote: To Infinity and Beyond!
 github_user: TateWalker
 ---

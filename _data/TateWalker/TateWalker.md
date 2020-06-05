@@ -5,4 +5,3 @@ profile_pic: TateWalker.jpeg
 quote: To Infinity and Beyond!
 github_user: TateWalker
 ---
-

@@ -1,0 +1,25 @@
+{
+  "name": "graduation",
+  "version": "1.0.0",
+  "description": "What a weekend 😅! You all showed up in such an incredible way. We are honored to be a part of your graduation experience. From helping each other submit pull requests to keeping our days entertained with your quotes. Thank you.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node transform.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/education/graduation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/education/graduation/issues"
+  },
+  "homepage": "https://github.com/education/graduation#readme",
+  "devDependencies": {
+    "front-matter": "^4.0.1",
+    "glob": "^7.1.6"
+  }
+}

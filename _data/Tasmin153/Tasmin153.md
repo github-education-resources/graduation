@@ -1,7 +1,7 @@
 ---
 name: Mahbuba Tasmin
 institution: North South University
-profile_pic: passport_Mahbuba Tasmin.png
-quote: #devgrad2020
+profile_pic: Mahbuba_Tasmin_Avatar.jpg
+quote: NSUgrad2020
 github_user: Tasmin153
 ---

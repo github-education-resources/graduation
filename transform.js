@@ -50,6 +50,16 @@ glob('_data/**/*.md', null, (er, files) => {
     if (!checkField(atts["folder"], 1, 100, /^[A-Za-z0-9\_\-]+$/)) console.log(`${folder}: Invalid folder: ${atts["folder"]}`)
 
     // Check that the profile_pic exists
+    const filesInDir = execSync(`ls ${dirname}`, { encoding: 'utf-8' }).trim().split(/\n/)
+    const nonMdFilesInDir = filesInDir.filter(entry => { return !entry.match(/\.md$/i) })
+    if (nonMdFilesInDir.length > 1) {
+      console.log(`Too many image files in folder: ${imagePath}`)
+    }
+    if (nonMdFilesInDir.length === 1 && nonMdFilesInDir[0] !== atts["profile_pic"]) {
+      // console.log(`Image path does not match: expected ${atts["profile_pic"]}, found ${nonMdFilesInDir[0]}`)
+      atts["profile_pic"] = nonMdFilesInDir[0]
+    }
+
     const imagePath = `${dirname}/${atts["profile_pic"]}`
     exts[path.extname(imagePath)] = 1
     const imageExists = fs.existsSync(imagePath)
@@ -65,16 +75,16 @@ glob('_data/**/*.md', null, (er, files) => {
     }
 
     // Resize image
-    // const imageSize = execSync(`identify ${imagePath}`, { encoding: 'utf-8' })
-    // if (!('' + imageSize).match(/544x544/)) {
-    //   try {
-    //     console.log(`Resizing ${imageSize}`)
-    //     const mogrify = execSync(`mogrify -resize "544x544^" -gravity center -extent "544x544" ${imagePath}`, { encoding: 'utf-8' });
-    //     console.log(mogrify)
-    //   } catch (e) {
-    //     // ignore
-    //   }
-    // }
+    const imageSize = execSync(`identify ${imagePath}`, { encoding: 'utf-8' })
+    if (!('' + imageSize).match(/544x544/)) {
+      try {
+        console.log(`Resizing ${imageSize}`)
+        const mogrify = execSync(`mogrify -resize "544x544^" -gravity center -extent "544x544" ${imagePath}`, { encoding: 'utf-8' });
+        console.log(mogrify)
+      } catch (e) {
+        // ignore
+      }
+    }
 
     // try {
     //   console.log(`Optimizing ${newImagePath}`)

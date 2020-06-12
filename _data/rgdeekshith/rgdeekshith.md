@@ -1,7 +1,7 @@
 ---
 name: Rallapalli Goutham Deekshith
 institution: Hyderabad Institute of Technology and Management
-profile_pic: rgdeekshith.jpg
+profile_pic: rgdeekshith.png
 quote: It's not over until it's over.
 github_user: rgdeekshith
 ---

@@ -9,7 +9,7 @@ A few updates -
 
 - 📚 [Yearbook](https://education.github.com/graduation/yearbook) is LIVE. Find your friends and enjoy the quotes. We sure did 😅
 - 🛍 Swag has **not yet shipped** but is in production. Thank you for your patience. We'll post here as things are sent out.
-- 📎 Be sure to add [graduation](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200615T160000Z%2F20200615T183000Z&text=%24%20git%20remote%20%3Cgraduation%3E%20%F0%9F%8E%93&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=) to your calendar and follow [GitHub Education](twitch.tv/githubeducation) on Twitch for notifications.
+- 📎 Be sure to add [graduation](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200615T160000Z%2F20200615T183000Z&text=%24%20git%20remote%20%3Cgraduation%3E%20%F0%9F%8E%93&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=) to your calendar and follow [GitHub Education](https://www.twitch.tv/githubeducation) on Twitch for notifications.
 
 See you Monday at 9 AM Pacific 🎉
 

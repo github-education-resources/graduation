@@ -1,4 +1,20 @@
 # UPDATES
+## June 13th, 2020 - 8:00 PM PT
+
+Hi Graduates! 
+
+We are getting everything ready for the event on Monday and can hardly wait to see you all walk the stage. 
+
+A few updates -
+
+- 📚 [Yearbook](https://education.github.com/graduation/yearbook) is LIVE. Find your friends and enjoy the quotes. We sure did 😅
+- 🛍 Swag has **not yet shipped** but is in production. Thank you for your patience. We'll post here as things are sent out.
+- 📎 Be sure to add [graduation](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200615T160000Z%2F20200615T183000Z&text=%24%20git%20remote%20%3Cgraduation%3E%20%F0%9F%8E%93&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=) to your calendar and follow [GitHub Education](twitch.tv/githubeducation) on Twitch for notifications.
+
+See you Monday at 9 AM Pacific 🎉
+
+❤️ @elisemoe + The GitHub Education Team
+
 ## May 26th, 2020 - 12:00 AM PT
 
 What a weekend 😅! You all showed up in such an incredible way. We are honored to be a part of your graduation experience. From helping each other submit pull requests to keeping our days entertained with your quotes. Thank you.

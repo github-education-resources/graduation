@@ -2,7 +2,11 @@
 ## July 27th, 2020
 Swag has 🎉 shipped 🎉 !! 
 
-If you are located in the United States, you will likely receive something in the next week. International shippments will arrive in 2-3 weeks. If your country is not currently accepting international shipments, we will hold onto your swag until shipping restrictions have been lifted. Please be patience as shipping in many parts of the world is currently delayed. 🙌
+If you are located in the United States, you will likely receive something in the next week. International shipments will arrive in 2-3 weeks. If your country is not currently accepting international shipments, we will hold onto your swag until [shipping restrictions](https://about.usps.com/newsroom/service-alerts/international/welcome.htm) have been lifted. Please be patient as shipping in many parts of the world is currently delayed. 🙌. 
+
+Feel free to flex your swag on Twitter and tag us!
+
+Today this repository will be archived.
 
 Congrats grads ✨
 
